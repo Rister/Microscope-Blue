@@ -1,0 +1,120 @@
+\documentclass[letterpaper,twoside,openany]{book}
+
+\usepackage{enumitem}
+\setlist{noitemsep}
+
+\usepackage{epigraph}
+\renewcommand{\epigraphflush}{center}
+\renewcommand{\epigraphrule}{0.1pt}
+\renewcommand{\epigraphwidth}{3.5in}
+
+\usepackage{multicol}
+
+\usepackage{textcomp}
+
+\newcommand{\light}{\textopenbullet}
+\newcommand{\dark}{\textbullet}
+
+\title{Humanity Evolves Beyond Itself}
+\author{Jeremy Rist\\Nathan Peters\\Dillon Friesen}
+\date{July 15, 2015 to ---present---}
+
+\begin{document}
+    \frontmatter
+    \maketitle
+
+    \tableofcontents
+
+    \chapter{Big Picture}
+    \epigraph{Humanity Evolves Beyond Itself}{}
+
+    \chapter{Palette}
+    \section*{Add List}
+    \begin{itemize}
+        \item Artificial Intelligence
+        \item War
+        \item Psychic Powers
+        \item Plague
+    \end{itemize}
+    \section*{Ban List}
+    \begin{itemize}
+        \item Magic
+        \item Alternate Universes
+        \item Time Travel
+    \end{itemize}
+
+    \mainmatter
+
+    \chapter{Golden Age of Genetic Discovery \light}
+    \section{Dr. Emmet Maps the Entire Human Genome \dark}
+    \section{A Group Calling Themselves ``Purity'' Steal Data From Dr. Emmet \dark}
+    \subsection{Why did ``Purity'' steal the data?}
+    \subsubsection{Characters}
+    \subsubsection{Scene}
+    A meeting with Purity's leaders.
+    \subsubsection{Conclusion}
+    Purity is scared of ``non-humans''.
+
+    \section{UN Creates First Squad of SuperSoldiers to Oppose Purity \light}
+
+    \chapter{Humanity Expands Through the Galaxy \light}
+
+    \section{ASTME Develops and Successfully Tests Near Light-Speed Travel \light}
+    ASTME (Advanced Space-Time Manipulation Experiment)
+
+    \section{Colonize First Planet Outside of Our Solar System \light}
+    \subsection{How has Purity affected the colonization project?}
+    \subsubsection{Characters}
+    \subsubsection{Scene}
+    UN Discussion
+    \subsubsection{Conclusion}
+    Purity is Fillabustering political talks while at the same time infiltrating
+    colonists with Purity ideologies.
+
+    \section{Purity Creates Plague to Try to Wipe Out the Mutants \dark}
+
+    \chapter{The Great Plague Spreads Throughout the Human Empire \dark}
+
+    \section{Plague Spreads Throughout Empire \dark}
+
+    \section{The Transhuman Advancement Group is Formed to Find a Cure for the Plague \light}
+    Transhuman Advancement Group (TAG)
+
+    \section{Contact is Lost with Most Colonies as Plague Ravages their Population \dark}
+
+    \chapter{First Contact War \dark}
+
+    \section{First Commercial Cruise to the Pegasus Galaxy \light}
+
+    \section{Aliens Capture Colony Ships \dark}
+
+    \chapter{Humanity Integrates with an Alien Society \dark}
+
+    \section{A Cure for the TD Virus is Provided by the ``Greys'' \dark}
+
+    \section{The TD Virus Mutates \dark}
+
+    \appendix
+
+    \chapter{Foci}
+    \section{Genetic Discovery}
+    \section{Interstellar Travel}
+    \section{Plague}
+
+    \chapter{Legacies}
+    \section{``Purity''}
+    \section{The Transhuman Degradation Virus}
+    Also known as the TD Virus.
+    \section{Colonization}
+
+
+    \chapter{Players}
+
+    \section{Jeremy}
+    \section{Nathan}
+    \section{Dillon}
+
+    \chapter{Notes}
+
+
+\end{document}
